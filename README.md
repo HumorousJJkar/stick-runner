@@ -1,1 +1,1 @@
-# stick-runner
+# Stick-runner
